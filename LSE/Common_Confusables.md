@@ -63,3 +63,22 @@ Here are some of the most commonly confused words in English, along with their m
     - **Dessert** (noun): A sweet course typically eaten at the end of a meal. Example: "Chocolate cake is my favorite dessert."
 
 Understanding these differences can help you avoid common errors in writing and communication! Would you like more examples or explanations?
+
+
+The terms **uninterested** and **disinterested** are often confused, but they have distinct meanings:
+
+1. **Uninterested:**
+   - **Meaning:** Lacking interest or not being engaged in something.
+   - **Example:** "He was uninterested in the movie, so he left the theater early."
+   - **Usage:** Describes someone who has no interest or concern in a particular activity, topic, or situation.
+
+2. **Disinterested:**
+   - **Meaning:** Impartial or unbiased; not influenced by personal feelings or interests.
+   - **Example:** "The mediator remained disinterested, ensuring a fair resolution for both parties."
+   - **Usage:** Describes someone who is neutral and does not have a personal stake in the outcome of a situation. It implies objectivity rather than a lack of interest.
+
+**Key Difference:**
+- **Uninterested** refers to a lack of interest or boredom.
+- **Disinterested** refers to impartiality or being unbiased.
+
+Understanding the context is crucial when choosing between these words.
