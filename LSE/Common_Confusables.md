@@ -82,3 +82,5 @@ The terms **uninterested** and **disinterested** are often confused, but they ha
 - **Disinterested** refers to impartiality or being unbiased.
 
 Understanding the context is crucial when choosing between these words.
+![image](https://github.com/user-attachments/assets/e35875b8-e6de-4df0-b597-d75ffe5a2ecc)
+![image](https://github.com/user-attachments/assets/97d8a769-6356-4cbf-bf5e-66456a44fdf0)
