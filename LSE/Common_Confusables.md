@@ -84,3 +84,5 @@ The terms **uninterested** and **disinterested** are often confused, but they ha
 Understanding the context is crucial when choosing between these words.
 ![image](https://github.com/user-attachments/assets/e35875b8-e6de-4df0-b597-d75ffe5a2ecc)
 ![image](https://github.com/user-attachments/assets/97d8a769-6356-4cbf-bf5e-66456a44fdf0)
+<p>![image](https://github.com/user-attachments/assets/d2dbb9e5-58e5-4450-a9a9-ea0dc374c9bf)
+</p>
