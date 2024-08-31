@@ -44,4 +44,17 @@ CREATE TABLE Customer_info (
 In this table:
 - **Contact**: A column for storing the customer’s contact number, with a length of 15 characters (sufficient for most phone numbers). You can adjust the length based on your needs.
 
-  
+
+
+  Here’s the revised `Booking_info` table creation statement with a foreign key constraint linking `Flight_No` to `Flight_NO` in the `flight_info` table:
+
+```sql
+CREATE TABLE Booking_info (
+    Booking_Id INT PRIMARY KEY,       -- Unique identifier for each booking
+    Flight_No INT,                    -- Flight number for the booking
+    No_of_seat INT,                  -- Number of seats booked
+    FOREIGN KEY (Flight_No) REFERENCES flight_info(Flight_NO) -- Foreign key constraint
+);
+```
+
+This statement creates the `Booking_info` table with the `Booking_Id` as the primary key and includes a foreign key constraint that links `Flight_No` to the `Flight_NO` column in the `flight_info` table.
