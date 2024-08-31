@@ -58,3 +58,9 @@ CREATE TABLE Booking_info (
 ```
 
 This statement creates the `Booking_info` table with the `Booking_Id` as the primary key and includes a foreign key constraint that links `Flight_No` to the `Flight_NO` column in the `flight_info` table.
+
+
+ALTER TABLE Booking_info
+ADD CONSTRAINT fk_plane
+FOREIGN KEY (Plane_ID) REFERENCES PLANE_INFO(Plane_ID);
+
