@@ -1,3 +1,4 @@
+## Excercise 3
 **Occurs** refers to something happening or coming into existence, often used in both formal and casual contexts. It can apply to events, processes, or conditions.
 
 **Takes place** specifically refers to an event happening at a particular time or location and is often used for planned or scheduled events.
@@ -119,3 +120,53 @@ In short:
 In short:
 - **Think**: to reason or ponder.
 - **Comprehend**: to fully understand.
+
+
+## Excercise 4
+### **Credible vs Credulous**:
+- **Credible** means believable or trustworthy.
+- **Credulous** means being too willing to believe things, often gullible.
+
+In short:
+- **Credible**: believable or reliable.
+- **Credulous**: easily fooled or overly trusting.
+
+---
+
+### **Flaunt vs Flout**:
+- **Flaunt** means to show off something, often to attract attention.
+- **Flout** means to openly disregard a rule or norm.
+
+In short:
+- **Flaunt**: to display something proudly.
+- **Flout**: to openly disobey or disrespect.
+
+---
+
+### **Palate vs Palette**:
+- **Palate** refers to the roof of the mouth or a person's taste preferences.
+- **Palette** refers to a board used by artists for mixing paints, or a range of colors.
+
+In short:
+- **Palate**: taste or roof of the mouth.
+- **Palette**: a surface or range of colors used in art.
+
+---
+
+### **Ambiguous vs Ambivalent**:
+- **Ambiguous** means having more than one possible meaning, unclear or open to interpretation.
+- **Ambivalent** means having mixed or conflicting feelings about something.
+
+In short:
+- **Ambiguous**: unclear or having multiple meanings.
+- **Ambivalent**: feeling conflicted or undecided.
+
+---
+
+### **Allusion vs Illusion**:
+- **Allusion** is a reference to something, often indirect or implied.
+- **Illusion** is a false perception or misleading appearance.
+
+In short:
+- **Allusion**: a subtle reference.
+- **Illusion**: a deceptive appearance or false impression.
