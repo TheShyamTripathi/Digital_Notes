@@ -95,6 +95,10 @@ Would you like help with more examples or optimizing subqueries for better perfo
 
 
 
+
+## Based On return type
+
+
 Subqueries can also be classified based on the **return type**, i.e., what type of result they return (whether it's a single value, multiple values, or a set of values). Based on the return type, subqueries are generally categorized into the following types:
 
 ### 1. **Scalar Subquery**
